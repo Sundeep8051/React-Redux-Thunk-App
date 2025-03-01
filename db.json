@@ -11,6 +11,10 @@
     {
       "id": "a469",
       "name": "Javier Funk"
+    },
+    {
+      "id": "87ee",
+      "name": "Lana Rosenbaum MD"
     }
   ],
   "albums": [
@@ -38,7 +42,63 @@
       "id": "e735",
       "userId": "a469",
       "title": "Intelligent Rubber Bike"
+    },
+    {
+      "id": "4abe",
+      "userId": "87ee",
+      "title": "Handmade Metal Bacon"
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "id": "c146",
+      "albumId": "9eb8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=55030"
+    },
+    {
+      "id": "3922",
+      "albumId": "9eb8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=78158"
+    },
+    {
+      "id": "0605",
+      "albumId": "9eb8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=27027"
+    },
+    {
+      "id": "0f1f",
+      "albumId": "9eb8",
+      "url": "https://loremflickr.com/150/150/abstract?lock=88200"
+    },
+    {
+      "id": "c89b",
+      "albumId": "e735",
+      "url": "https://loremflickr.com/150/150/abstract?lock=84855"
+    },
+    {
+      "id": "87fe",
+      "albumId": "e735",
+      "url": "https://loremflickr.com/150/150/abstract?lock=57709"
+    },
+    {
+      "id": "e14c",
+      "albumId": "e735",
+      "url": "https://loremflickr.com/150/150/abstract?lock=50494"
+    },
+    {
+      "id": "1563",
+      "albumId": "e735",
+      "url": "https://loremflickr.com/150/150/abstract?lock=91232"
+    },
+    {
+      "id": "0b9b",
+      "albumId": "e735",
+      "url": "https://loremflickr.com/150/150/abstract?lock=60318"
+    },
+    {
+      "id": "cd47",
+      "albumId": "4abe",
+      "url": "https://loremflickr.com/150/150/abstract?lock=18208"
+    }
+  ]
 }

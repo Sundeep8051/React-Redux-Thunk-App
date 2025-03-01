@@ -15,7 +15,7 @@ function Button({
 }) {
   const classes = className(
     rest.className,
-    "flex items-center px-3 py-1.5 border cursor-pointer h-8",
+    "flex items-center px-2 py-1.5 border cursor-pointer h-8",
     {
       "border-blue-500 bg-blue-500 text-white": primary,
       "border-gray-900 bg-gray-900 text-white": secondary,
