@@ -1,7 +1,6 @@
 import React from "react";
 import { useFetchAlbumsQuery, useAddAlbumMutation } from "../store/index.js";
 import Skeleton from "./Skeleton.jsx";
-import ExpandablePanel from "./ExpandablePanel.jsx";
 import Button from "./Button.jsx";
 import AlbumsListItem from "./AlbumsListItem.jsx";
 
