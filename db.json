@@ -1,22 +1,44 @@
 {
   "users": [
     {
-      "id": "052b",
-      "name": "Dr. Homer Spinka"
+      "id": "d4da",
+      "name": "Jerald Predovic"
     },
     {
-      "id": "010f",
-      "name": "Tracey Hammes"
+      "id": "8c4e",
+      "name": "Allan Roob"
     },
     {
-      "id": "21a4",
-      "name": "Lois Gusikowski PhD"
-    },
-    {
-      "id": "07d7",
-      "name": "Wesley Block"
+      "id": "a469",
+      "name": "Javier Funk"
     }
   ],
-  "albums": [],
+  "albums": [
+    {
+      "id": "c121",
+      "userId": "8c4e",
+      "title": "Bespoke Rubber Shoes"
+    },
+    {
+      "id": "5910",
+      "userId": "d4da",
+      "title": "Oriental Fresh Tuna"
+    },
+    {
+      "id": "6102",
+      "userId": "8c4e",
+      "title": "Luxurious Cotton Gloves"
+    },
+    {
+      "id": "9eb8",
+      "userId": "d4da",
+      "title": "Generic Plastic Shirt"
+    },
+    {
+      "id": "e735",
+      "userId": "a469",
+      "title": "Intelligent Rubber Bike"
+    }
+  ],
   "photos": []
 }
